@@ -41,6 +41,7 @@ This exhibition is related to my project as it is created in miniature scale and
 
 Andy Acres is a London artist that specialises in creating highly detailed and visually dynamic models and scale miniatures. Usually creating ghostly ambiences, one of Acres' works are spooky shadow box diaromas. Within these models, Acres' uses LEDs to create creepy shadows that serve as a background to emphasise the small details. the lights can also be adjusted through an antique toggle on the side of the diaroma. By creating life-like scenes that create experiences, Acres' wants his work "to not only breathe life but to exhale".
 
+This project is related to my project because they are both in a miniature scale and wuuse electronics. SImilar to Acres' I will also be using LEDs to create atmospheric lighting. I also want to make the scene look as realistic as possible by emphasising the small details. I wish to replicate Acres' notion of creating such a life-like scene that the scene not only breathes life but exhales.
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
