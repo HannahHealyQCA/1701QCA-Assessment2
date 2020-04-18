@@ -80,7 +80,7 @@ This project is related to mine as it follows my design intent to visually depic
 *https://blog.arduino.cc/2016/09/26/a-diy-interactive-book-that-uses-digital-gestures/
 https://tazasproject.com/portfolio/131/articleID.php?tazas=13*
 
-![Image](relatedproject6.jpg
+![Image](relatedproject6.jpg)
 (This is an image of the interactive book that uses hand gestures.)
 
 A digital and craft maker lab, Tazas and a group of master students have created an interactive book that reflects just how natural digital gestures like swiping have become. The book uses ten actions: drag and drop, spread and squeeze, swipe, double tap, scroll, zoom, rotate, draw, press, press and hold. This project uses four basic electronic components and some digital fabrication: a web server (VPS), an AtHeart Blend Micro Bluetooth module linking objects to the server, an Ipod Touch connective viewing medium and conductive ink. arranged on a laser cut wooden base, the Ipod digitally decrypts the printed pages. Using the book, the viewer has the ability to interact on the screen with digital hand gestures.
