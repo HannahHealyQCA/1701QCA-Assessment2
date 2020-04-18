@@ -71,8 +71,21 @@ This project is similar to mine as it is also created in a miniature scale. they
 (This is an image of the animated mircobit book that visualises a story.)
 
 This microbit project uses the microbit pins and copper tape circuits to illustrate a short story using the LEDs on the microbit.
-This project is related to mine as it follows my design intent to visually depict a story. It also includes a book like my project and it utilises the same technology/equipment of the microbit that I will also be using. This project has expanded my knowledge of different ways you can trigger action and alternatives to touch sensors,
+This project is related to mine as it follows my design intent to visually depict a story. It also includes a book like my project and it utilises the same technology/equipment of the microbit that I will also be using. This project has expanded my knowledge of different ways you can trigger action and alternatives to touch sensors.
 
+
+### Related project 6 ###
+*Digital Gestures Interactive Book*
+
+*https://blog.arduino.cc/2016/09/26/a-diy-interactive-book-that-uses-digital-gestures/
+https://tazasproject.com/portfolio/131/articleID.php?tazas=13*
+
+![Image](relatedproject6.jpg
+(This is an image of the interactive book that uses hand gestures.)
+
+A digital and craft maker lab, Tazas and a group of master students have created an interactive book that reflects just how natural digital gestures like swiping have become. The book uses ten actions: drag and drop, spread and squeeze, swipe, double tap, scroll, zoom, rotate, draw, press, press and hold. This project uses four basic electronic components and some digital fabrication: a web server (VPS), an AtHeart Blend Micro Bluetooth module linking objects to the server, an Ipod Touch connective viewing medium and conductive ink. arranged on a laser cut wooden base, the Ipod digitally decrypts the printed pages.
+
+This project is similar to mine as it is also an interactive book but this project uses more sophisticated technology. This project is also related to mine as it is a prototype and it uses different gesture sensors, thus expanding my knowledge of different sensors and alternatives to touch sesnors for my own project.
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
