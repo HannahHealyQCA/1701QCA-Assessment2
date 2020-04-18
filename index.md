@@ -29,17 +29,65 @@ This project is related to mine because *insert reasons here*.
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+My design intention for this project is a device/model that creates an interactive experience that visually depicts a short narrative in a physical space.
 
 ### Design concept 1 ###
+A mechanical electronic wall art that visually depicts a story that is read along with it. This idea could include moving parts, lights, sound and many other interactions.
+
+Strengths
+- Can be expanded in many ways 
+- Visually engaging and pleasing 
+- Can be created based on basically any short story 
+
+Limitations
+- Complicated and complex,combining electronics with mechanical parts 
+- Will take a long time 
+- May be difficult to source materials 
+- Will need alot of research 
+
+![Image](missingimage.png)
+(This is an image of the planning and design process development for design concept 1).
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
 
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
 ### Design concept 2 ###
-*Put details here.*
+A room interactive art installation where the action automatically starts to happen around you and your choices determine the storyline. It would be 'choose your own adventure' style as if your are in your own movie.
+
+Strengths
+- Immersive experience 
+- Can be customised to any story 
+
+Limitations
+- Would take a long time 
+- Too large 
+
+- Would have to be scaled down 
+- Do not have access to such a large space 
+
+
+![Image](missingimage.png)
+(Above is an image of design concept 2).
 
 ### Final design concept ###
+A miniature model room that visually depicts a narrative in a physical model. A book is read along with it and as the action happens in writing it begins to occur in the scene in front of you.
+
+Strengths
+- Moderately easy to make as it is small 
+- Easy to source materials 
+- A lot of resources online 
+- Could be used as a portable device 
+- Can be cutomised to any story 
+- Can be marketed to any target audience 
+- Many different ways to execute eg. different sensors and action that could take place 
+
+Limitations
+- Could take some time 
+- Would need some experimenting and prototyping 
+
+![Image](missingimage.png)
+(This is an image of my final design concept initial planning).
+
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
 ### Interaction flowchart ###
