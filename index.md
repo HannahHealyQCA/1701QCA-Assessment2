@@ -16,6 +16,7 @@ When you have completed the template, submit the link to the GitHub Pages site f
 *https://www.allvisualarts.org/artists/CharlesMatton/biography.aspx*
 
 ![Image](relatedproject1.jpg)
+(This is an image of Matton's miniature scenes that look so life-like.)
 
 Charles Matton was a painter, sculptor, designer, writer, photographer, videographer, and filmmaker. His work aimed to capture the tension in living things and animate nature by provoking and perfecting life. In his exhibition 'enclosures', Matton created small scale interiors within transparent boxes with glass fronts. Depicting theatrical, atmospheric scenes, the miniatures spaces are based on real world interiors and memories from Matton's life. Each scene is meticulously hand-built to a 1/7 scale. To create a more immersive experience and to depict not just how something looked ona particular day but how it felt, Matton introduced one-way mirrors and videos to add hypnotic optical illusions.
 
@@ -28,6 +29,7 @@ This exhibition is related to my project as it is created in miniature scale and
 
 
 ![Image](relatedproject2.jpg)
+(Above is an image of one page of the electronic book that uses LEDs to match the colours when touched.)
 
 The MMAS Electronic book is a book with four pages that teaches subjects such as Music, Maths, ARts and Science, through interactive moveable parts and other electronics. Nonnis created it to introduce some skills for the first year of primary school to her niece. The book uses physical moveable parts and uses the electrical capitance of the human body to trigger lights, sounds and other outputs. Powered by 2 Arduinos, the book was created using a range of recylced materials such as paper, foil, cardboard and other electric components such as wires, resistors and LEDs. 
 
@@ -40,10 +42,11 @@ This project is related to mine as it is also a book and uses touch sensors and 
 *https://www.awesomeinventions.com/andy-acres-spooky-shadow-boxes-miniature-scenes/*
 
 ![Image](relatedproject3.jpg)
+(This is an image of Acre's creepy scene that uses both mechanical construction and electronic components.)
 
 Andy Acres is a London artist that specialises in creating highly detailed and visually dynamic models and scale miniatures. Usually creating ghostly ambiences, one of Acres' works are spooky shadow box diaromas. Within these models, Acres' uses LEDs to create creepy shadows that serve as a background to emphasise the small details. the lights can also be adjusted through an antique toggle on the side of the diaroma. By creating life-like scenes that create experiences, Acres' wants his work "to not only breathe life but to exhale".
 
-This project is related to my project because they are both in a miniature scale and wuuse electronics. SImilar to Acres' I will also be using LEDs to create atmospheric lighting. I also want to make the scene look as realistic as possible by emphasising the small details. I wish to replicate Acres' notion of creating such a life-like scene that the scene not only breathes life but exhales.
+This project is related to my project because they are both in a miniature scale and wuuse electronics. Similar to Acres' I will also be using LEDs to create atmospheric lighting. I also want to make the scene look as realistic as possible by emphasising the small details. I wish to replicate Acres' notion of creating such a life-like scene that the scene not only breathes life but exhales.
 
 
 ### Related project 4 ###
@@ -53,8 +56,10 @@ This project is related to my project because they are both in a miniature scale
 https://mymodernmet.com/joshua-smith-miniaturist-urban-scale-models/*
 
 ![Image](relatedproject4.jpg)
+(This is an image of Smith's impressive miniatures that depict abandoned locations.)
 
 Joshua Smith is a South Australian miniaturist and former stencil artist. Smith's miniature work mainly focuses on the ofte overlooked aspects of the urban landscape. Smith depicts things like graffiti, abandoned locations, rust and decay. In his own words Smith states, "The works I create are of buildings long forgotten and soon to be demolished. I capture their current state of a once thriving but long forgotten space.” Smith works on a 1:20 scale and uses everyday materials such as MDF, cardboard, and plastic.
+
 This project is similar to mine as it is also created in a miniature scale. they are alos related as I will be using everday materials aswell. Within my scene I also want to add a sense of a forgotten space by using retro themed furniature and creating a dated almost abandoned look. This artist has inspired me to expand the narrative further by adding more small details that develop the realness of the scene and incorporating an old vintage feel. This project is also related to mine as he uses recycled materials. Consequently, this has shown me the amazing masterpieces you can make with everyday object which helped me realise making my project aesthetically pleasing and detailed is feasible.
 
 ### Related project 5 ###
@@ -63,6 +68,7 @@ This project is similar to mine as it is also created in a miniature scale. they
 *make.techwillsaveus.com/microbit/activities/animated-microbook*
 
 ![Image](relatedproject5.jpg)
+(This is an image of the animated mircobit book that visualises a story.)
 
 This microbit project uses the microbit pins and copper tape circuits to illustrate a short story using the LEDs on the microbit.
 This project is related to mine as it follows my design intent to visually depict a story. It also includes a book like my project and it utilises the same technology/equipment of the microbit that I will also be using. This project has expanded my knowledge of different ways you can trigger action and alternatives to touch sensors,
