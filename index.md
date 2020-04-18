@@ -22,12 +22,12 @@ Charles Matton was a painter, sculptor, designer, writer, photographer, videogra
 This exhibition is related to my project as it is created in miniature scale and visually depicts a story through the immense detail that make the small scenes seem so life-like. It is also related to my project as it uses electronics to create a more immersive interactive experience rather than just an art piece to admire. This project has inspired me to include many minute details so I can replicate a moment in time more accurately and make the scene more life-like, thus creating a more interesting and immersive expereince for the audience.
 
 ### Related project 2 ###
-*Andy Acres*
+**
 
 *http://andyacres.com/*
 *https://www.awesomeinventions.com/andy-acres-spooky-shadow-boxes-miniature-scenes/*
 
-![Image](relatedproject3.jpg)
+![Image](relatedproject2.jpg)
 
 
 
