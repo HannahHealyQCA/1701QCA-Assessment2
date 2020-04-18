@@ -22,14 +22,16 @@ Charles Matton was a painter, sculptor, designer, writer, photographer, videogra
 This exhibition is related to my project as it is created in miniature scale and visually depicts a story through the immense detail that make the small scenes seem so life-like. It is also related to my project as it uses electronics to create a more immersive interactive experience rather than just an art piece to admire. This project has inspired me to include many minute details so I can replicate a moment in time more accurately and make the scene more life-like, thus creating a more interesting and immersive expereince for the audience.
 
 ### Related project 2 ###
-**
+*The Music, Math, Art and Science Electronic Book  by Antonella Nonnis*
 
-*http://andyacres.com/*
-*https://www.awesomeinventions.com/andy-acres-spooky-shadow-boxes-miniature-scenes/*
+*http://www.antonellanonnis.com/?/work/theMMASElectronicBook/*
+
 
 ![Image](relatedproject2.jpg)
 
+The MMAS Electronic book is a book with four pages that teaches subjects such as Music, Maths, ARts and Science, through interactive moveable parts and other electronics. Nonnis created it to introduce some skills for the first year of primary school to her niece. The book uses physical moveable parts and uses the electrical capitance of the human body to trigger lights, sounds and other outputs. Powered by 2 Arduinos, the book was created using a range of recylced materials such as paper, foil, cardboard and other electric components such as wires, resistors and LEDs. 
 
+This project is related to mine as it is also a book and uses touch sensors and the electrical capacitance of the human body. This project inspired me to delve deeper into the different ways of installing a touch sesnor into a book. This project is also similar to mine as it uses recycled materials and a system similar to the microbit. Therefore, this project has mad eme realise that my project is feasible with the materials I have access to.
 
 ### Related project 3 ###
 *Andy Acres*
@@ -53,7 +55,18 @@ https://mymodernmet.com/joshua-smith-miniaturist-urban-scale-models/*
 ![Image](relatedproject4.jpg)
 
 Joshua Smith is a South Australian miniaturist and former stencil artist. Smith's miniature work mainly focuses on the ofte overlooked aspects of the urban landscape. Smith depicts things like graffiti, abandoned locations, rust and decay. In his own words Smith states, "The works I create are of buildings long forgotten and soon to be demolished. I capture their current state of a once thriving but long forgotten space.” Smith works on a 1:20 scale and uses everyday materials such as MDF, cardboard, and plastic.
-This project is similar to mine as it is also created in a miniature scale. they are alos related as I will be using everday materials aswell. Within my scene I also want to add a sense of a forgotten space by using retro themed furniature and creating a dated almost abandoned look. This artist has inspired me to expand the narrative further by adding more small details that develop the realness of the scene and incorporating an old vintage feel.
+This project is similar to mine as it is also created in a miniature scale. they are alos related as I will be using everday materials aswell. Within my scene I also want to add a sense of a forgotten space by using retro themed furniature and creating a dated almost abandoned look. This artist has inspired me to expand the narrative further by adding more small details that develop the realness of the scene and incorporating an old vintage feel. This project is also related to mine as he uses recycled materials. Consequently, this has shown me the amazing masterpieces you can make with everyday object which helped me realise making my project aesthetically pleasing and detailed is feasible.
+
+### Related project 5 ###
+*Animated Micro:Book*
+
+*make.techwillsaveus.com/microbit/activities/animated-microbook*
+
+![Image](relatedproject5.jpg)
+
+This microbit project uses the microbit pins and copper tape circuits to illustrate a short story using the LEDs on the microbit.
+This project is related to mine as it follows my design intent to visually depict a story. It also includes a book like my project and it utilises the same technology/equipment of the microbit that I will also be using. This project has expanded my knowledge of different ways you can trigger action and alternatives to touch sensors,
+
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
