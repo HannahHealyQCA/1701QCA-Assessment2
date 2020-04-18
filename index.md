@@ -42,8 +42,7 @@ This exhibition is related to my project as it is created in miniature scale and
 Andy Acres is a London artist that specialises in creating highly detailed and visually dynamic models and scale miniatures. Usually creating ghostly ambiences, one of Acres' works are spooky shadow box diaromas. Within these models, Acres' uses LEDs to create creepy shadows that serve as a background to emphasise the small details. the lights can also be adjusted through an antique toggle on the side of the diaroma. By creating life-like scenes that create experiences, Acres' wants his work "to not only breathe life but to exhale".
 
 This project is related to my project because they are both in a miniature scale and wuuse electronics. SImilar to Acres' I will also be using LEDs to create atmospheric lighting. I also want to make the scene look as realistic as possible by emphasising the small details. I wish to replicate Acres' notion of creating such a life-like scene that the scene not only breathes life but exhales.
-## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
+
 
 ### Related project 4 ###
 *Joshua Smith*
@@ -56,6 +55,8 @@ https://mymodernmet.com/joshua-smith-miniaturist-urban-scale-models/*
 Joshua Smith is a South Australian miniaturist and former stencil artist. Smith's miniature work mainly focuses on the ofte overlooked aspects of the urban landscape. Smith depicts things like graffiti, abandoned locations, rust and decay. In his own words Smith states, "The works I create are of buildings long forgotten and soon to be demolished. I capture their current state of a once thriving but long forgotten space.” Smith works on a 1:20 scale and uses everyday materials such as MDF, cardboard, and plastic.
 This project is similar to mine as it is also created in a miniature scale. they are alos related as I will be using everday materials aswell. Within my scene I also want to add a sense of a forgotten space by using retro themed furniature and creating a dated almost abandoned look. This artist has inspired me to expand the narrative further by adding more small details that develop the realness of the scene and incorporating an old vintage feel.
 
+## Other research ##
+*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 ### *Brief resource name/description* ###
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
