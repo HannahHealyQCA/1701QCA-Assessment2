@@ -15,7 +15,7 @@ When you have completed the template, submit the link to the GitHub Pages site f
 
 *https://www.allvisualarts.org/artists/CharlesMatton/biography.aspx*
 
-![Image](relatedproject1.png)
+![Image](relatedproject1.jpg)
 
 Charles Matton was a painter, sculptor, designer, writer, photographer, videographer, and filmmaker. His work aimed to capture the tension in living things and animate nature by provoking and perfecting life. In his exhibition 'enclosures', Matton created small scale interiors within transparent boxes with glass fronts. Depicting theatrical, atmospheric secnes, the miniatures spaces are based on real world interiors and memories from Matton's life. Each scene is meticulously hand-built to a 1/7 scale. To create a more immersive experience and to depict not just how something looked ona particular day but how it felt, Matton introduced one-way mirrors and videos to add hypnotic optical illusions.
 This exhibition is related to my project as it is created in miniature scale and visually depicts a story through the immense detail that make the small scenese seem so life-like. It is also related to my project as it uses electronics to create a more immersive interactive experience rather than just an art piece to admire. This project has inspired me to include many minute details so I can replicate a moment in time more accurately and make the scene more life-like, thus creating a more interesting and immersive expereince for the audience.
