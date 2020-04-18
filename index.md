@@ -17,8 +17,19 @@ When you have completed the template, submit the link to the GitHub Pages site f
 
 ![Image](relatedproject1.jpg)
 
-Charles Matton was a painter, sculptor, designer, writer, photographer, videographer, and filmmaker. His work aimed to capture the tension in living things and animate nature by provoking and perfecting life. In his exhibition 'enclosures', Matton created small scale interiors within transparent boxes with glass fronts. Depicting theatrical, atmospheric secnes, the miniatures spaces are based on real world interiors and memories from Matton's life. Each scene is meticulously hand-built to a 1/7 scale. To create a more immersive experience and to depict not just how something looked ona particular day but how it felt, Matton introduced one-way mirrors and videos to add hypnotic optical illusions.
-This exhibition is related to my project as it is created in miniature scale and visually depicts a story through the immense detail that make the small scenese seem so life-like. It is also related to my project as it uses electronics to create a more immersive interactive experience rather than just an art piece to admire. This project has inspired me to include many minute details so I can replicate a moment in time more accurately and make the scene more life-like, thus creating a more interesting and immersive expereince for the audience.
+Charles Matton was a painter, sculptor, designer, writer, photographer, videographer, and filmmaker. His work aimed to capture the tension in living things and animate nature by provoking and perfecting life. In his exhibition 'enclosures', Matton created small scale interiors within transparent boxes with glass fronts. Depicting theatrical, atmospheric scenes, the miniatures spaces are based on real world interiors and memories from Matton's life. Each scene is meticulously hand-built to a 1/7 scale. To create a more immersive experience and to depict not just how something looked ona particular day but how it felt, Matton introduced one-way mirrors and videos to add hypnotic optical illusions.
+
+This exhibition is related to my project as it is created in miniature scale and visually depicts a story through the immense detail that make the small scenes seem so life-like. It is also related to my project as it uses electronics to create a more immersive interactive experience rather than just an art piece to admire. This project has inspired me to include many minute details so I can replicate a moment in time more accurately and make the scene more life-like, thus creating a more interesting and immersive expereince for the audience.
+
+### Related project 2 ###
+*Andy Acres*
+
+*http://andyacres.com/*
+*https://www.awesomeinventions.com/andy-acres-spooky-shadow-boxes-miniature-scenes/*
+
+![Image](relatedproject2.jpg)
+
+Any Acres is an artist that specialises in creating highly detailed and visually dynamic models and scale miniatures.
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
