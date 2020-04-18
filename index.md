@@ -45,7 +45,7 @@ Limitations
 - May be difficult to source materials 
 - Will need alot of research 
 
-![Image](missingimage.png)
+![Image](concept1.png)
 (This is an image of the planning and design process development for design concept 1).
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
 
@@ -66,7 +66,7 @@ Limitations
 - Do not have access to such a large space 
 
 
-![Image](missingimage.png)
+![Image](concept2.png)
 (Above is an image of design concept 2).
 
 ### Final design concept ###
@@ -85,7 +85,7 @@ Limitations
 - Could take some time 
 - Would need some experimenting and prototyping 
 
-![Image](missingimage.png)
+![Image](concept3.png)
 (This is an image of my final design concept initial planning).
 
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
