@@ -201,6 +201,7 @@ Ensure you include comments about the choices you've made along the way.*
 ![Image](mood3.png)
 
 #### Accessories ####
+
 ![Image](mood2.png)
 
 #### Contruction of Room/ Layout ####
