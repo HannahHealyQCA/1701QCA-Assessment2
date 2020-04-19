@@ -158,9 +158,27 @@ Limitations
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
 ### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
+At this point I am not sure if I will make the individual interactions stop when the page is turned back but I have included it in these interactive flow diagrams to illustrate all possible iterations.
+![Image](flow.png)
+(This is an image of one layout of my interaction flow diagram.)
+![Image](flow2.png)
+(This is an image of another more detailed version of my interaction flow diagram that shows each step individually.)
 
-![Image](missingimage.png)
+More Information of the Microinteractions:
+Page 1- Door Opens
+Using a servo underneath the floor and a magnet connected to an attachment of the servo and the door, the servo will open the door when the angle is changed. This will introduce the story as an establishing interaction. At this point I think the door will remain open for the whole story but I may decide to close it at the end of the story.
+
+Page 2- Lights Turn On
+Lamps and wall lights will turn on. Using handmade light covers the LEDs will be installed into some type of fabricated form that resembles a light. All will turn on at the same time.
+
+Page 3- Wind blows the curtains
+Underneath the floor will be a fan attached to the motor that will blow air through a vent in the floor and consequently blow the curtains on the window as if a breeze is entering. 
+
+Page 4- Record Player
+A miniature record on a record player will begin to spin through the use of a motor. Music will also play through a speaker that I salvaged from an old home phone. The song is 'I Can't Help Falling In Love WIth You', to develop th evintage vibes more. I have coded the song already and have this whole page working successfully for the final project.
+
+Page 5- Fireplace
+In the corner of the room will be a fire place. Using LEDs removed from battery operated tea lights that flicker, the fireplace will have about three LEDs within the fire o ensure maximum ambient glow. All LEDs will turn on at the same time.
 
 ## Physical experimentation documentation ##
 
