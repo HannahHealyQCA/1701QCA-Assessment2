@@ -164,7 +164,7 @@ At this point I am not sure if I will make the individual interactions stop when
 ![Image](flow2.png)
 (This is an image of another more detailed version of my interaction flow diagram that shows each step individually.)
 
-More Information of the Microinteractions:
+More Information on the Microinteractions:
 
 Page 1- Door Opens
 
@@ -180,7 +180,7 @@ Underneath the floor will be a fan attached to the motor that will blow air thro
 
 Page 4- Record Player
 
-A miniature record on a record player will begin to spin through the use of a motor. Music will also play through a speaker that I salvaged from an old home phone. The song is 'I Can't Help Falling In Love WIth You', to develop th evintage vibes more. I have coded the song already and have this whole page working successfully for the final project.
+A miniature record on a record player will begin to spin through the use of a motor. Music will also play through a speaker that I salvaged from an old home phone. The song is 'I Can't Help Falling In Love WIth You' by ELvis Presley, to develop th evintage vibes more. I have coded the song already and have this whole page working successfully for the final project.
 
 Page 5- Fireplace
 
