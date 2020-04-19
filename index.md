@@ -165,6 +165,7 @@ At this point I am not sure if I will make the individual interactions stop when
 (This is an image of another more detailed version of my interaction flow diagram that shows each step individually.)
 
 More Information of the Microinteractions:
+
 Page 1- Door Opens
 
 Using a servo underneath the floor and a magnet connected to an attachment of the servo and the door, the servo will open the door when the angle is changed. This will introduce the story as an establishing interaction. At this point I think the door will remain open for the whole story but I may decide to close it at the end of the story.
