@@ -292,7 +292,7 @@ This is the code I used during my tests:
 ![Image](rpcode1.png)
 (This is an image of the code used to test the functionality of just the record with the motor.)
 
-To create the music, I first trialed different songs. I struggled figuring out how to put songs into the microbit coding siftware but after some practise I was able to get my head around it. I first trialed a simple song: 'You are my Sunshine'.
+To create the music, I first trialed different songs. I struggled figuring out how to put songs into the microbit coding software but after some practise I was able to get my head around it. I first trialed a simple song: 'You are my Sunshine'.
 
 This is the code I created:
 
@@ -301,15 +301,14 @@ This is the code I created:
 
 I then tried a harder song: 'To be So Lonely By Harry Styles'
 
-This is the code I created:
-![Image](rpcode3.png)
-(This is the song test code.)
+The code I created can be found at this link:
+*https://makecode.microbit.org/_aiOR779cUV3s*
 
-I didn't like either of these songs for this project as I felt they didnkt fit the overall vintage feel. So instead I decided on 'I Can't Help Falling In Love With You By Elvis Presley'
+I didn't like either of these songs for this project as I felt they didn't fit the overall vintage feel. So instead I decided on 'I Can't Help Falling In Love With You By Elvis Presley'
 
-This is the code I created:
+The code I created can be found at this link:
+*https://makecode.microbit.org/_hq1PMhY7KOJ8*
 
-![Image](rpcode4.png)
 (This is the final song code.)
 
 After completing the song coding aspect and after many tests using the make code simulator and the piezo buzzer, I wanted to find a way to project the music louder. I eventually found an old home phone that I opened and removed the built in speaker. To maximise the volume I created a wooden box for it and used a half sphere plastic piece. Filling up the gaps in the box with hot glue, I tried to make sure all of the sound was projected outwards through the cone like amplifier. I think that these added attachments definitely helped to project the sound more. 
@@ -326,17 +325,13 @@ I then attached it to the record player, synched the record spinning to the musi
 ![Image](speaker3.png)
 (Above is an image of the test set up for the record player and speaker.)
 
-This is the code I used:
-
-![Image](rpcode5.png)
-(This is an image of the code to test the music and motor together.)
+To alter the code I just added a 'analogue write P1 to 50' block onto the final song code above.
 
 I then added the touch sensor to trigger these interactions. A video of this can be found at:
 
-This is the final code:
+The final code can be found here:
+**
 
-![Image](rpcode6.png)
-(This is an image of the final code.)
 
 This is an image of the overall fabrication and functionality of the record player. However, the wires and microbit will obviously be neatly hidden in the final fabrication. The speaker will project from a hole in the side of the room.
 
