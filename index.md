@@ -269,67 +269,85 @@ After troubleshooting a few problems with errors in code (greyed out code) and c
 ### Record Player Construction ###
 I have completed and fabricated one of the interactions. To create a miniature record player I first constructed a small wooden box and lid that fit the motor. I then created a panel that sits on top of the motor with a hole for the shaft of the motor. To make sure this piece fit perfectly I had to create a few wedges and made a wooden border for this piece to sit on. 
 
-![Image](mood 2.png)
-(This is an image ofthe main components of the record player.)
+![Image](rp1.png)
+(This is an image of the main components of the record player.)
 
 After adding small wiring details and staining the wood, I also created a few different vinyl record iterations to make sure it spun evenly on the motor.
 The first record was made just out of clear plastic painted black with a simple hole. I noticed this versiondid not really spin as the hole was too big and did not latch onto the shaft of the motor. I also noticed the main hole for the shaft of the motor was too small and caused friction which disturbed the spinning. I notived that the motor was also moving so that the side of the motor shaft was up against the wood. To resolve this I blue-tacked down the motor and made the main hole larger. To salvage this record I added a small paper tube that fit perfectly around the motor shaft but this still disturbed the spinning.
 
-![Image](mood 2.png)
+![Image](rp2.png)
 (This is an closeup of the record with the small paper tube.)
 
 Within this process I also noticed my batteries were running out of power and effecting the speed, so I replaced those. My last iteration of the record I went back to the simpliest form of just a hole but I made it much smaller. This worked much better but it was hard to arrange the record so it wasn't crooked or hitting the side. To resolve this I added a small bead the fit exactly around the motor shaft to the underside of the record. This small addition cannot be seen but makes it so the record spins evenly and smoothly.
 
-![Image](mood 2.png)
+![Image](rp3.png)
+(Above is an image of the final record vinyl with the bead.)
+
+
+![Image](rp4.png)
 (This is an image of the final record player.)
 
 This is the code I used during my tests:
-![Image](mood 2.png)
-(This is an image of the code used to test the functionality.)
+
+![Image](rpcode1.png)
+(This is an image of the code used to test the functionality of just the record with the motor.)
 
 To create the music, I first trialed different songs. I struggled figuring out how to put songs into the microbit coding siftware but after some practise I was able to get my head around it. I first trialed a simple song: 'You are my Sunshine'.
 
 This is the code I created:
 
-![Image](mood 2.png)
+![Image](rpcode2.png)
 (This is an image of the song test code.)
 
 I then tried a harder song: 'To be So Lonely By Harry Styles'
 
 This is the code I created:
-![Image](mood 2.png)
+![Image](rpcode3.png)
 (This is the song test code.)
 
 I didn't like either of these songs for this project as I felt they didnkt fit the overall vintage feel. So instead I decided on 'I Can't Help Falling In Love With You By Elvis Presley'
 
 This is the code I created:
 
-![Image](mood 2.png)
+![Image](rpcode4.png)
 (This is the final song code.)
 
 After completing the song coding aspect and after many tests using the make code simulator and the piezo buzzer, I wanted to find a way to project the music louder. I eventually found an old home phone that I opened and removed the built in speaker. To maximise the volume I created a wooden box for it and used a half sphere plastic piece. Filling up the gaps in the box with hot glue, I tried to make sure all of the sound was projected outwards through the cone like amplifier. I think that these added attachments definitely helped to project the sound more. 
 
-![Image](mood 2.png)
+![Image](speaker1.png)
 (This an image of the speaker with attachments.)
+
+
+![Image](speaker2.png)
+(This is an image of the attachments installed.)
 
 I then attached it to the record player, synched the record spinning to the music and tested it out.
 
-![Image](mood 2.png)
+![Image](speaker3.png)
 (Above is an image of the test set up for the record player and speaker.)
+
+This is the code I used:
+
+![Image](rpcode5.png)
+(This is an image of the code to test the music and motor together.)
 
 I then added the touch sensor to trigger these interactions. A video of this can be found at:
 
+This is the final code:
+
+![Image](rpcode6.png)
+(This is an image of the final code.)
 
 This is an image of the overall fabrication and functionality of the record player. However, the wires and microbit will obviously be neatly hidden in the final fabrication. The speaker will project from a hole in the side of the room.
 
-![Image](mood 2.png)
-(This is the final record player.)
+![Image](speaker4.png)
+(This is the final record player with the speaker.)
 
 ### Construction of Wooden Room ###
 
 After deciding on a layout for the room which was informed by mood boards and sketches, I created a template with measurments for the individual pieces I needed to cut from the 3mm ply wood.
 
-![Image](mood 2.png)
+![Image](wood1.png)
 (This is an image of the template.)
 
 Within my design I have a 30mm platform underneath the whole room. This is to run wires through and hide messy components. To run the wires through I will drill small holes in the accordinning spots to thread the wires under the scene and to the microbit. 
@@ -340,15 +358,15 @@ I also cut a piece for a fireplace that slots into the left hand corner.
 After measuring and cutting the wood, I began to arrange the pieces and glue them with wood glue. I used masking tape to secure the pieces while they dry.
 
 
-![Image](mood 2.png)
+![Image](wood2.png)
 (This is an image of the glueing of the room in progress.)
 
 
-![Image](mood 2.png)
+![Image](wood3.png)
 (Above is an image of the glueing of the balcony in progress.
 
 
-![Image](mood 2.png)
+![Image](wood4.png)
 (This is the final basic construction of the room.)
 
 
