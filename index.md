@@ -327,6 +327,30 @@ This is an image of the overall fabrication and functionality of the record play
 
 ### Construction of Wooden Room ###
 
+After deciding on a layout for the room which was informed by mood boards and sketches, I created a template with measurments for the individual pieces I needed to cut from the 3mm ply wood.
+
+![Image](mood 2.png)
+(This is an image of the template.)
+
+Within my design I have a 30mm platform underneath the whole room. This is to run wires through and hide messy components. To run the wires through I will drill small holes in the accordinning spots to thread the wires under the scene and to the microbit. 
+
+I also added a platform balcony with steps. This is because I didn't want the room just to be a flat open space. I wanted to make it look realistic and add some dimension. This balcony with steps also gave more room for technology underneath. I am going to fill the steps in with wooden sticks. On this platform is a window, and underneath is a hole cut that piece of fly screen will be installed into. This vent will allow wind from a small fan attached to a motor underneath to blow through and move the curtains. I was going to add a window with hinges on the side to access the texhnology but instead the balcony will be a removeable piece.
+I also cut a piece for a fireplace that slots into the left hand corner. 
+
+After measuring and cutting the wood, I began to arrange the pieces and glue them with wood glue. I used masking tape to secure the pieces while they dry.
+
+
+![Image](mood 2.png)
+(This is an image of the glueing of the room in progress.)
+
+
+![Image](mood 2.png)
+(Above is an image of the glueing of the balcony in progress.
+
+
+![Image](mood 2.png)
+(This is the final basic construction of the room.)
+
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
