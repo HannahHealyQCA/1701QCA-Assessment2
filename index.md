@@ -250,10 +250,9 @@ I then delved more into capacitive touch sensors and used this tutorial:
 
 Using this tutorial I was able to successfully make a touch sesnor with aluminium foil that was much more reliable but still did have some minor hiccups as it worked probably 85% of the time.
 
-This is the code I used:
+The code can be found at this link:
 
-![Image](tscode2.png)
-(This is a screenshot of the code used in my second test.)
+*https://makecode.microbit.org/_iXmKteHTLFe6*
 
 
 ![Image](tstest2.png)
