@@ -291,14 +291,14 @@ Within this process I also noticed my batteries were running out of power and ef
 
 This is the code I used during my tests:
 
-![Image](rpcode1.png)
+![Image](rpcode1.PNG)
 (This is an image of the code used to test the functionality of just the record with the motor.)
 
 To create the music, I first trialed different songs. I struggled figuring out how to put songs into the microbit coding software but after some practise I was able to get my head around it. I first trialed a simple song: 'You are my Sunshine'.
 
 This is the code I created:
 
-![Image](rpcode2.png)
+![Image](rpcode2.PNG)
 (This is an image of the song test code.)
 
 I then tried a harder song: 'To be So Lonely By Harry Styles'
