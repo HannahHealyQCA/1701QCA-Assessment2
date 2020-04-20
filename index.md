@@ -232,7 +232,7 @@ First I tried adapting these tutorials:
 **
 **
 
-I made it so that when touch ground and P1 an the microbit's LEDs would light up. This did work but it was not reliable and would only work sometimes. I also tried doing it with alligator clips connected to aluminium foil instead of fruit but this was even more unreliable.
+I made it so that when you touch ground and P1 an the microbit's LEDs would light up. This did work but it was not reliable and would only work sometimes. I also tried doing it with alligator clips connected to aluminium foil instead of fruit but this was even more unreliable.
 
 This is the code I used:
 
@@ -261,7 +261,8 @@ This is the code I used:
 
 Although this option is not entirely perfect it is the best I have found so far. So, at this point I will be going with small aluminium touch sensors embedded into the pages of the book. However, I will keep researching alternative more reliable options sonthis apsect mare change in the final execution.
 To further test this option I tried adding another touch sensor by duplicating the code. 
-The code I used can be found through this link: **
+The code I used can be found through this link: 
+*https://makecode.microbit.org/_LYTRJKYOk1Xy*
 
 After troubleshooting a few problems with errors in code (greyed out code) and connection problems I have these two sensors working moderating well.
 
