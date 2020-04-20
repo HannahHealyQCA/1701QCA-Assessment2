@@ -236,9 +236,11 @@ I made it so that when touch ground and P1 an the microbit's LEDs would light up
 
 This is the code I used:
 
-![Image](mood 2.png)
+![Image](tscode1.png)
 (This is a screenshot of the code utilised.)
-![Image](mood 2.png)
+
+
+![Image](tstest1.png)
 
 (This is an image of the final test.)
 
@@ -250,20 +252,20 @@ Using this tutorial I was able to successfully make a touch sesnor with aluminiu
 
 This is the code I used:
 
-![Image](mood 2.png)
+![Image](tscode2.png)
 (This is a screenshot of the code used in my second test.)
 
 
-![Image](mood 2.png)
+![Image](tstest2.png)
 (This is an image of the final successful test.)
 
-Although this option is not entirely perfect it is the best Inhave found so far. So, at this point I will be going with small aluminium touch sensors embedded into the pages of the book. However, I will keep researching alternative more reliable options sonthis apsect mare change in the final execution.
-To further test this option I tried adding another touch sesnor by duplicating the code. 
+Although this option is not entirely perfect it is the best I have found so far. So, at this point I will be going with small aluminium touch sensors embedded into the pages of the book. However, I will keep researching alternative more reliable options sonthis apsect mare change in the final execution.
+To further test this option I tried adding another touch sensor by duplicating the code. 
 The code I used can be found through this link: **
 
 After troubleshooting a few problems with errors in code (greyed out code) and connection problems I have these two sensors working moderating well.
 
-![Image](mood 2.png)
+![Image](tstest3.png)
 (This is an image of the final test of multiple sensors.)
 
 ### Record Player Construction ###
