@@ -89,6 +89,22 @@ This project is similar to mine as it is also an interactive book but this proje
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
+
+
+### *Miniature Record Player Tutorial* ###
+
+**
+This tutorial helped me to make the record player fabrication. However, I had to alter it to fit the motor and I included a small hole at the back for the wires. This tutorial inspired me to use wooden sticks and helped me to create the small details such as the handle, knobs, needle and speakers. It also taught me an easier way to stain the wood. 
+
+### *Miniature Upholstered Arm Chair* ###
+
+**
+This tutorial helped me make the armchair construction but I altered it to the materials I had. Instead of using foam board and quilt batting, I used strong cardboard and foam sheets. I also used the template provided as a rough guideline to create my own in my specific desired size.
+
+### *Brief resource name/description* ###
+
+*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+
 ### *Brief resource name/description* ###
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
@@ -205,6 +221,81 @@ Ensure you include comments about the choices you've made along the way.*
 
 #### Contruction of Room/ Layout ####
 ![Image](mood1.png)
+
+### Touch Sensor Testing ###
+To begin prototyping I research capactive touch sensors and using the human body to close a circuit. I tried a few different iterations.
+First I tried adapting these tutorials:
+**
+**
+I made it so that when touch ground and P1 an the microbit's LEDs would light up. This did work but it was not reliable and would only work sometimes. I also tried doing it with alligator clips connected to aluminium foil instead of fruit but this was even more unreliable.
+This is the code I used:
+![Image](mood 2.png)
+(This is a screenshot of the code utilised.)
+![Image](mood 2.png)
+(This is an image of the final test.)
+
+I then delved more into capacitive touch sensors and used this tutorial:
+**
+Using this tutorial I was able to successfully make a touch sesnor with aluminium foil that was much more reliable but still did have some minor hiccups as it worked probably 85% of the time.
+This is the code I used:
+![Image](mood 2.png)
+(This is a screenshot of the code used in my second test.)
+![Image](mood 2.png)
+(This is an image of the final successful test.)
+Although this option is not entirely perfect it is the best Inhave found so far. So, at this point I will be going with small aluminium touch sensors embedded into the pages of the book. However, I will keep researching alternative more reliable options sonthis apsect mare change in the final execution.
+To further test this option I tried adding another touch sesnor by duplicating the code. 
+The code I used can be found through this link: **
+After troubleshooting a few problems with errors in code (greyed out code) and connection problems I have these two sensors working moderating well.
+![Image](mood 2.png)
+(This is an image of the final test of multiple sensors.)
+
+### Record Player Construction ###
+I have completed and fabricated one of the interactions. To create a miniature record player I first constructed a small wooden box and lid that fit the motor. I then created a panel that sits on top of the motor with a hole for the shaft of the motor. To make sure this piece fit perfectly I had to create a few wedges and made a wooden border for this piece to sit on. 
+![Image](mood 2.png)
+(This is an image ofthe main components of the record player.)
+
+After adding small wiring details and staining the wood, I also created a few different vinyl record iterations to make sure it spun evenly on the motor.
+The first record was made just out of clear plastic painted black with a simple hole. I noticed this versiondid not really spin as the hole was too big and did not latch onto the shaft of the motor. I also noticed the main hole for the shaft of the motor was too small and caused friction which disturbed the spinning. I notived that the motor was also moving so that the side of the motor shaft was up against the wood. To resolve this I blue-tacked down the motor and made the main hole larger. To salvage this record I added a small paper tube that fit perfectly around the motor shaft but this still disturbed the spinning.
+![Image](mood 2.png)
+(This is an closeup of the record with the small paper tube.)
+
+Within this process I also noticed my batteries were running out of power and effecting the speed, so I replaced those. My last iteration of the record I went back to the simpliest form of just a hole but I made it much smaller. This worked much better but it was hard to arrange the record so it wasn't crooked or hitting the side. To resolve this I added a small bead the fit exactly around the motor shaft to the underside of the record. This small addition cannot be seen but makes it so the record spins evenly and smoothly.
+![Image](mood 2.png)
+(This is an image of the final record player.)
+
+This is the code I used during my tests:
+![Image](mood 2.png)
+(This is an image of the code used to test the functionality.)
+
+To create the music, I first trialed different songs. I struggled figuring out how to put songs into the microbit coding siftware but after some practise I was able to get my head around it. I first trialed a simple song: 'You are my Sunshine'.
+This is the code I created:
+![Image](mood 2.png)
+(This is an image of the song test code.)
+
+I then tried a harder song: 'To be So Lonely By Harry Styles'
+This is the code I created:
+![Image](mood 2.png)
+(This is the song test code.)
+
+I didn't like either of these songs for this project as I felt they didnkt fit the overall vintage feel. So instead I decided on 'I Can't Help Falling In Love With You By Elvis Presley'
+This is the code I created:
+![Image](mood 2.png)
+(This is the final song code.)
+
+After completing the song coding aspect and after many tests using the make code simulator and the piezo buzzer, I wanted to find a way to project the music louder. I eventually found an old home phone that I opened and removed the built in speaker. To maximise the volume I created a wooden box for it and used a half sphere plastic piece. Filling up the gaps in the box with hot glue, I tried to make sure all of the sound was projected outwards through the cone like amplifier. I think that these added attachments definitely helped to project the sound more. 
+![Image](mood 2.png)
+(This an image of the speaker with attachments.)
+I then attached it to the record player, synched the record spinning to the music and tested it out.
+![Image](mood 2.png)
+(Above is an image of the test set up for the record player and speaker.)
+I then added the touch sensor to trigger these interactions. A video of this can be found at:
+
+This is an image of the overall fabrication and functionality of the record player. However, the wires and microbit will obviously be neatly hidden in the final fabrication. The speaker will project from a hole in the side of the room.
+![Image](mood 2.png)
+(This is the final record player.)
+
+### Construction of Wooden Room ###
+
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
