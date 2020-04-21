@@ -229,33 +229,39 @@ To begin prototyping I research capactive touch sensors and using the human body
 
 First I tried adapting these tutorials:
 
-**
-**
+*https://makecode.microbit.org/reference/input/on-pin-pressed*
+*https://makecode.microbit.org/projects/banana-keyboard*
 
 I made it so that when you touch ground and P1 an the microbit's LEDs would light up. This did work but it was not reliable and would only work sometimes. I also tried doing it with alligator clips connected to aluminium foil instead of fruit but this was even more unreliable.
 
 This is the code I used:
 
-![Image](tscode1.png)
+![Image](tscode1.PNG)
 (This is a screenshot of the code utilised.)
 
+![Image](tscode2.PNG)
+(This is a screenshot of the code utilised for a second test.)
 
 ![Image](tstest1.png)
 
-(This is an image of the final test.)
+(This is an image of the first test.)
+
+![Image](tstest2.png)
+
+(This is an image of the second test.)
 
 I then delved more into capacitive touch sensors and used this tutorial:
 
-**
+*https://ukbaz.github.io/howto/microbit_touch.html*
 
-Using this tutorial I was able to successfully make a touch sesnor with aluminium foil that was much more reliable but still did have some minor hiccups as it worked probably 85% of the time.
+Using this tutorial I was able to successfully make a touch sensor with aluminium foil that was much more reliable but still did have some minor hiccups as it worked probably 85% of the time.
 
 The code can be found at this link:
 
 *https://makecode.microbit.org/_iXmKteHTLFe6*
 
 
-![Image](tstest2.png)
+![Image](tstest3.png)
 (This is an image of the final successful test.)
 
 Although this option is not entirely perfect it is the best I have found so far. So, at this point I will be going with small aluminium touch sensors embedded into the pages of the book. However, I will keep researching alternative more reliable options sonthis apsect mare change in the final execution.
@@ -265,7 +271,7 @@ The code I used can be found through this link:
 
 After troubleshooting a few problems with errors in code (greyed out code) and connection problems I have these two sensors working moderating well.
 
-![Image](tstest3.png)
+![Image](tstest4.png)
 (This is an image of the final test of multiple sensors.)
 
 ### Record Player Construction ###
