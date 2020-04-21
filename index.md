@@ -417,6 +417,25 @@ I created a vintage looking upholstered armchair. I used some fabric I already o
 ![Image](access3.png)
 (This is an image of my final armchair.
 
+### Narrative to Go Along With Scene ###
+Below is adraft of the short narrative that will coincide with th eminiature scene. However, the ideas may develop further in my final project and the writing will be more polished.
+##### Page 1 #####
+###### Interaction: ###### Door Opens with Servo
+The letter was so unexpected, a relative that I had never heard of before just dying out of nowhere?  Now I need to clean out their apartment because I am the closest living relative, seems sketchy, I thought as I stared at the archaic numbers adorned on this once convivial wooden door; 647.  
+
+##### Page 2 #####
+###### Interaction: ###### Lights turn on
+
+##### Page 3 #####
+###### Interaction: ###### Wind blows through window and disturbs curtains
+
+##### Page 4 #####
+###### Interaction: ###### Record player spins and begins playing 'I Can't Help Falling in Love WIth You By ELvis Presley'
+
+##### Page 5 #####
+###### Interaction: ###### Fireplace turns on
+
+
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
