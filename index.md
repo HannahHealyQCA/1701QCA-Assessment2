@@ -106,6 +106,8 @@ This tutorial helped me make the armchair construction but I altered it to the m
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
 
+All other helpful research or tutorials are mentioned in specific sections about the particular step in my construction/design process below.
+
 ## Conceptual progress ##
 
 ### Design intent ###
