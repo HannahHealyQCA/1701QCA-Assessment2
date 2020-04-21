@@ -261,7 +261,7 @@ The code can be found at this link:
 *https://makecode.microbit.org/_iXmKteHTLFe6*
 
 
-![Image](tstest3.png)
+![Image](tstest3.PNG)
 (This is an image of the final successful test.)
 
 Although this option is not entirely perfect it is the best I have found so far. So, at this point I will be going with small aluminium touch sensors embedded into the pages of the book. However, I will keep researching alternative more reliable options sonthis apsect mare change in the final execution.
@@ -271,7 +271,7 @@ The code I used can be found through this link:
 
 After troubleshooting a few problems with errors in code (greyed out code) and connection problems I have these two sensors working moderating well.
 
-![Image](tstest4.png)
+![Image](tstest4.PNG)
 (This is an image of the final test of multiple sensors.)
 
 ### Record Player Construction ###
