@@ -177,22 +177,22 @@ After deciding on this concept, I really struggled figuring out an aesthetic or 
 I knew that I wanted a window but I wasn't sure about the fireplace. I didn't want the room to be too cosy with the fireplace or too open or airy with the window. After doing some sketches (below) I decided to centre the room around the fireplace as i felt it fit the feel of the room I desired.
 
 
-![Image](diagram.png)
+![Image](diagram.jpg)
 (Above is an image of two different designs that helped me to decide whether I wanted to centre to the room and story around the fireplace or window.)
 
 To determine the look and feel of the room I sketched out the differnet elements I wanted to include as I was definite on some of the accessories I wanted to include but just needed to visualise them together and work out the accessories exactly.
 
-![Image](look.png)
+![Image](look.jpg)
 (Above is an image of the sketches of the accessories that helped me develop my aesthetic and possible interactions.)
 
 I thought of a few different micro-interactions that could take place in the room. After narrowig them down to feasible interactions with the materials and technology I had or could purchase, I made a final list.
 
-![Image](interactions.png)
+![Image](interactions.jpg)
 (This is an image of my ideation and thought process when deciding the different interactions and the final interactions.).
 
 Now that I knew the interactions of overall look, I began making a material list. Most of the materials are electrical parts or fabrication materials, as all of the furniature and assessories will be handmade.
 
-![Image](materiallist.png)
+![Image](materiallist.jpg)
 (This is an image of my initial material list).
 
 #### Description of Look and Intentions: ####
@@ -399,7 +399,7 @@ After measuring and cutting the wood, I began to arrange the pieces and glue the
 ### Construction of Accessories ###
 I have also began making some of the accessories for the room.
 I made a hanging plant by spiring string around a mold and glueing in fake plants to emulate the look of a overgrown hanging plant. I also created a hook from wire that will be installed into a wall in the room.
-![Image](access1.png)
+![Image](access1.jpg)
 (This is an image of a handmade hanging plant).
 
 I created a vintage looking upholstered armchair. I used some fabric I already owned but I would have really like to use mustard coloured velvet. I used cardbord and sheets of foam. Overall, I like the end result as it looks like some of the chairs I was inspired by on my mood boards.
