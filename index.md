@@ -243,7 +243,7 @@ Ensure you include comments about the choices you've made along the way.*
 ![Image](mood3.png)
 
 #### Accessories ####
-![Image](mood 2.png)
+![Image](mood2.png)
 
 #### Contruction of Room/ Layout ####
 ![Image](mood1.png)
