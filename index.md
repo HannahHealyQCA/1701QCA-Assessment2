@@ -174,14 +174,20 @@ Limitations
 
 After deciding on this concept, I really struggled figuring out an aesthetic or feel of the room. I wanted it to look vintage and victorian with the dark stained wood but also fun and lively with plants etc. To really pin down the look I wanted and feeling I wanted to convey I made mood boards (below), sketches, lists and did alot of research. 
 
-I knew that I wanted a window but I wasn't sure about the fireplace. I didn't want the room to be too cosy with the fireplace or too open or airy with the window. After doing some sketches (below) I decided to centre the room around the fireplace as i felt it fit the feel of the room I desired
-.
+I knew that I wanted a window but I wasn't sure about the fireplace. I didn't want the room to be too cosy with the fireplace or too open or airy with the window. After doing some sketches (below) I decided to centre the room around the fireplace as i felt it fit the feel of the room I desired.
+
+
 ![Image](diagram.png)
-(Above is an image of two different designs that helped me to decide whether I wanted to centre to the room and story around the fireplace or window.).
+(Above is an image of two different designs that helped me to decide whether I wanted to centre to the room and story around the fireplace or window.)
+
+To determine the look and feel of the room I sketched out the differnet elements I wanted to include as I was definite on some of the accessories I wanted to include but just needed to visualise them together and work out the accessories exactly.
+
+![Image](look.png)
+(Above is an image of the sketches of the accessories that helped me develop my aesthetic and possible interactions.)
 
 I thought of a few different micro-interactions that could take place in the room. After narrowig them down to feasible interactions with the materials and technology I had or could purchase, I made a final list.
 
-![Image](concept3.png)
+![Image](interactions.png)
 (This is an image of my ideation and thought process when deciding the different interactions and the final interactions.).
 
 Now that I knew the interactions of overall look, I began making a material list. Most of the materials are electrical parts or fabrication materials, as all of the furniature and assessories will be handmade.
