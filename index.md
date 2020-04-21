@@ -445,7 +445,7 @@ The letter was so unexpected, a relative that I had never heard of before just d
 
 To complete my project I need to:
 
-1- Finish making accessories 
+##### 1- Finish making accessories 
   - Includes the fabrication of the interactions
   - Includes:
     - Fireplace
@@ -455,26 +455,26 @@ To complete my project I need to:
     - Door
     - Other small details
   
-2- Finish transforming the aesthetics of the room.
+##### 2- Finish transforming the aesthetics of the room.
   - Add wooden floors
   - Add window panes.
   - Add wallpaper/paint walls 
   - Add wooden steps.
   
-3- Construct final book with wiring and story.
+##### 3- Construct final book with wiring and story.
   - Print/Hand-write story onto thick paper
   - Bind simple book
   - Install aluminium sensors
   - Connect wiring to microbit + coding
   - Make prototypr tests along the way
   
-4- Install LEDS, servo, and motor to complete all other interactions.
+##### 4- Install LEDS, servo, and motor to complete all other interactions.
   - Put into fabrication/casing and wire up to microbit
   
-5- Link these interactions to touch sensors in the book.
+##### 5- Link these interactions to touch sensors in the book.
   - Through wiring and code
   - Hide wires neatly under scene
   - Make prototype tests along the way
   
-6- Film and edit video
+##### 6- Film and edit video
   - Record documentation through the whole process and collate information in workbook
