@@ -456,4 +456,6 @@ To complete my project I need to:
   - Through wiring and code
   - Hide wires neatly under scene
   - Make prototype tests along the way
-
+  
+6- Film and edit video
+  - Record documentation through the whole process and collate information in workbook
