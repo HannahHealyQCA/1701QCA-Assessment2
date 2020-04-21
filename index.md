@@ -82,6 +82,11 @@ A digital and craft maker lab, Tazas and a group of master students have created
 
 This project is similar to mine as it is also an interactive book but this project uses more sophisticated technology. This project is also related to mine as it is a prototype and it uses different gesture sensors, thus expanding my knowledge of different sensors and alternatives to touch sesnors for my own project.
 
+Other related projects that deserve a quick mention as they inspired me:
+*http://www.ghostlightgallery.com/store/c3/Jamie_Winn.html*
+Electronic mechanical wall art: This informed and inspired one of my design concepts. It is related as it is visually tells a story through electronic and mechanical components.
+**
+
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
@@ -418,3 +423,37 @@ I created a vintage looking upholstered armchair. I used some fabric I already o
 
 ## Next steps ##
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+
+To complete my project I need to:
+
+1- Finish making accessories 
+  - Includes the fabrication of the interactions
+  - Includes:
+    - Fireplace
+    - Curtains
+    - Wall art
+    - Wall lights and lamps
+    - Door
+    - Other small details
+  
+2- Finish transforming the aesthetics of the room.
+  - Add wooden floors
+  - Add window panes.
+  - Add wallpaper/paint walls 
+  - Add wooden steps.
+  
+3- Construct final book with wiring and story.
+  - Print/Hand-write story onto thick paper
+  - Bind simple book
+  - Install aluminium sensors
+  - Connect wiring to microbit + coding
+  - Make prototypr tests along the way
+  
+4- Install LEDS, servo, and motor to complete all other interactions.
+  - Put into fabrication/casing and wire up to microbit
+  
+5- Link these interactions to touch sensors in the book.
+  - Through wiring and code
+  - Hide wires neatly under scene
+  - Make prototype tests along the way
+
