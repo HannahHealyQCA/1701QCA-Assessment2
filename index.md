@@ -1,14 +1,9 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
 
-You will use this workbook to keep track of your progress through the course and also as a process journal to document the making of your projects. The comments in italics throughout the template give suggestions about what to include. Feel free to delete those instructions when you have completed the sections.
-
-When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
-
 ## Project working title ##
 *Insert a name for the project as you conceive of it at the moment.*
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
 *Charles Matton- 'Enclosure'*
@@ -93,13 +88,13 @@ This project is similar to mine as it is also an interactive book but this proje
 
 ### *Miniature Record Player Tutorial* ###
 
-**
+*https://www.youtube.com/watch?v=hqFzV558Z9M&t=284s*
 
 This tutorial helped me to make the record player fabrication. However, I had to alter it to fit the motor and I included a small hole at the back for the wires. This tutorial inspired me to use wooden sticks and helped me to create the small details such as the handle, knobs, needle and speakers. It also taught me an easier way to stain the wood. 
 
 ### *Miniature Upholstered Arm Chair* ###
 
-**
+*https://www.youtube.com/watch?v=R7EAc9g5NSE&t=659s*
 
 This tutorial helped me make the armchair construction but I altered it to the materials I had. Instead of using foam board and quilt batting, I used strong cardboard and foam sheets. I also used the template provided as a rough guideline to create my own in my specific desired size.
 
@@ -119,6 +114,10 @@ My design intention for this project is a device/model that creates an interacti
 ### Design concept 1 ###
 A mechanical electronic wall art that visually depicts a story that is read along with it. This idea could include moving parts, lights, sound and many other interactions.
 
+Inspired by:
+*http://www.ghostlightgallery.com/store/c3/Jamie_Winn.html*
+
+
 Strengths
 - Can be expanded in many ways 
 - Visually engaging and pleasing 
@@ -132,9 +131,7 @@ Limitations
 
 ![Image](concept1.png)
 (This is an image of the planning and design process development for design concept 1).
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
 
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
 ### Design concept 2 ###
 A room interactive art installation where the action automatically starts to happen around you and your choices determine the storyline. It would be 'choose your own adventure' style as if your are in your own movie.
@@ -173,7 +170,28 @@ Limitations
 ![Image](concept3.png)
 (This is an image of my final design concept initial planning).
 
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+
+
+After deciding on this concept, I really struggled figuring out an aesthetic or feel of the room. I wanted it to look vintage and victorian with the dark stained wood but also fun and lively with plants etc. To really pin down the look I wanted and feeling I wanted to convey I made mood boards (below), sketches, lists and did alot of research. 
+
+I knew that I wanted a window but I wasn't sure about the fireplace. I didn't want the room to be too cosy with the fireplace or too open or airy with the window. After doing some sketches (below) I decided to centre the room around the fireplace as i felt it fit the feel of the room I desired
+.
+![Image](diagram.png)
+(Above is an image of two different designs that helped me to decide whether I wanted to centre to the room and story around the fireplace or window.).
+
+I thought of a few different micro-interactions that could take place in the room. After narrowig them down to feasible interactions with the materials and technology I had or could purchase, I made a final list.
+
+![Image](concept3.png)
+(This is an image of my ideation and thought process when deciding the different interactions and the final interactions.).
+
+Now that I knew the interactions of overall look, I began making a material list. Most of the materials are electrical parts or fabrication materials, as all of the furniature and assessories will be handmade.
+
+![Image](materiallist.png)
+(This is an image of my initial material list).
+
+#### Description of Look and Intentions: ####
+The floor of the main section will be hardwood floor boards. To emulate this look I will use wooden sticks that have been stained. 
+To go along with the story, the room may look a little bit abandoned with overgrown plants and peeling wallpaper. There will be a platform undreneath the whole room and a smaller platform with steps in front of the window (more about this the construction of the wooden form). The walls will be ardoned with frames and different posters. Overall, everthing will look substantially realistic whilst also give a vintage feel.
 
 ### Interaction flowchart ###
 At this point I am not sure if I will make the individual interactions stop when the page is turned back but I have included it in these interactive flow diagrams to illustrate all possible iterations.
@@ -371,6 +389,20 @@ After measuring and cutting the wood, I began to arrange the pieces and glue the
 
 ![Image](wood4.png)
 (This is the final basic construction of the room.)
+
+### Construction of Accessories ###
+I have also began making some of the accessories for the room.
+I made a hanging plant by spiring string around a mold and glueing in fake plants to emulate the look of a overgrown hanging plant. I also created a hook from wire that will be installed into a wall in the room.
+![Image](access1.png)
+(This is an image of a handmade hanging plant).
+
+I created a vintage looking upholstered armchair. I used some fabric I already owned but I would have really like to use mustard coloured velvet. I used cardbord and sheets of foam. Overall, I like the end result as it looks like some of the chairs I was inspired by on my mood boards.
+
+![Image](access2.png)
+(This is an image of the armchair in whilst in the process of being created).
+
+![Image](access3.png)
+(This is an image of my final armchair.
 
 
 ## Design process discussion ##
