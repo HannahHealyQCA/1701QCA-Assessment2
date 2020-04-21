@@ -242,11 +242,11 @@ This is the code I used:
 ![Image](tscode2.PNG)
 (This is a screenshot of the code utilised for a second test.)
 
-![Image](tstest1.png)
+![Image](tstest1.PNG)
 
 (This is an image of the first test.)
 
-![Image](tstest2.png)
+![Image](tstest2.PNG)
 
 (This is an image of the second test.)
 
