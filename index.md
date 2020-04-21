@@ -236,17 +236,17 @@ I made it so that when you touch ground and P1 an the microbit's LEDs would ligh
 
 This is the code I used:
 
-![Image](tscode1.PNG)
+![Image](tscode1.png)
 (This is a screenshot of the code utilised.)
 
-![Image](tscode2.PNG)
+![Image](tscode2.png)
 (This is a screenshot of the code utilised for a second test.)
 
-![Image](tstest1.PNG)
+![Image](tstest1.png)
 
 (This is an image of the first test.)
 
-![Image](tstest2.PNG)
+![Image](tstest2.png)
 
 (This is an image of the second test.)
 
@@ -261,7 +261,7 @@ The code can be found at this link:
 *https://makecode.microbit.org/_iXmKteHTLFe6*
 
 
-![Image](tstest3.PNG)
+![Image](tstest3.png)
 (This is an image of the final successful test.)
 
 Although this option is not entirely perfect it is the best I have found so far. So, at this point I will be going with small aluminium touch sensors embedded into the pages of the book. However, I will keep researching alternative more reliable options sonthis apsect mare change in the final execution.
@@ -271,7 +271,7 @@ The code I used can be found through this link:
 
 After troubleshooting a few problems with errors in code (greyed out code) and connection problems I have these two sensors working moderating well.
 
-![Image](tstest4.PNG)
+![Image](tstest4.png)
 (This is an image of the final test of multiple sensors.)
 
 ### Record Player Construction ###
