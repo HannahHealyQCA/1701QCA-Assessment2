@@ -1,7 +1,7 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
 
 ## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
+*A Letter of Optics*
 
 ## Related projects ##
 
