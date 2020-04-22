@@ -421,19 +421,23 @@ I created a vintage looking upholstered armchair. I used some fabric I already o
 Below is adraft of the short narrative that will coincide with th eminiature scene. However, the ideas may develop further in my final project and the writing will be more polished.
 ##### Page 1 #####
 ###### Interaction: ###### Door Opens with Servo
-The letter was so unexpected, a relative that I had never heard of before just dying out of nowhere?  Now I need to clean out their apartment because I am the closest living relative, seems sketchy, I thought as I stared at the archaic numbers adorned on this once convivial wooden door; 647.  
+The letter was so unexpected, a relative that I had never heard of before just dying out of nowhere?  Now I need to clean out their apartment because I am the closest living relative, seems sketchy, I thought as I stared at the archaic numbers adorned on this once convivial wooden door; 647.  The door creaked as I opened it and a musty smelled is released.
 
 ##### Page 2 #####
 ###### Interaction: Lights turn on
+Greeted by a dim room, the room is suddenly illuminated by atmospheric lighting. Oh, the lights must be on motion sensor. Although I am suprised, the room was cosy, it told a story. The room had character, it was as if someone was still living there, eerie. 
 
 ##### Page 3 #####
 ###### Interaction: Wind blows through window and disturbs curtains
+Stepping into the room I notice a cold breeze through an open window. Making goosebumps form on my skin, my anxiety increased. 
 
 ##### Page 4 #####
-###### Interaction: Record player spins and begins playing 'I Can't Help Falling in Love WIth You By ELvis Presley'
+###### Interaction: Record player spins and begins playing 'I Can't Help Falling in Love With You By ELvis Presley'
+Walking over to the window to close it, I hear a sudden hum of a motor. A sweet song begins to play, making me stand still, frozen in shock. Why was this stuff happening? I didn't feel threatened but I sure was suprised.
 
 ##### Page 5 #####
 ###### Interaction: Fireplace turns on
+The music continued whilst the fireplace illuminated. It was as if the house was welcoming me home. This is too creepy for me, I've got to get out of here, I thought, as I swiftly left, locking the door behind me hoping I could just forget about this whole thing.
 
 
 
