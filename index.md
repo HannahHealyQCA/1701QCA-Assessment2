@@ -444,8 +444,12 @@ The letter was so unexpected, a relative that I had never heard of before just d
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
 
 To complete my project I need to:
+##### 1- test out more touch sesnors or alternatives
+  - Research more
+  - Prototype tests to test reliabilty
+  - Test with one of the page's interactions
 
-##### 1- Finish making accessories 
+##### 2- Finish making accessories 
   - Includes the fabrication of the interactions
   - Includes:
     - Fireplace
@@ -455,26 +459,26 @@ To complete my project I need to:
     - Door
     - Other small details
   
-##### 2- Finish transforming the aesthetics of the room.
+##### 3- Finish transforming the aesthetics of the room.
   - Add wooden floors
   - Add window panes.
   - Add wallpaper/paint walls 
   - Add wooden steps.
   
-##### 3- Construct final book with wiring and story.
+##### 4- Construct final book with wiring and story.
   - Print/Hand-write story onto thick paper
   - Bind simple book
   - Install aluminium sensors
   - Connect wiring to microbit + coding
   - Make prototypr tests along the way
   
-##### 4- Install LEDS, servo, and motor to complete all other interactions.
+##### 5- Install LEDS, servo, and motor to complete all other interactions.
   - Put into fabrication/casing and wire up to microbit
   
-##### 5- Link these interactions to touch sensors in the book.
+##### 6- Link these interactions to touch sensors in the book.
   - Through wiring and code
   - Hide wires neatly under scene
   - Make prototype tests along the way
   
-##### 6- Film and edit video
+##### 7- Film and edit video
   - Record documentation through the whole process and collate information in workbook
