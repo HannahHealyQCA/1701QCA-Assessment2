@@ -415,7 +415,9 @@ I created a vintage looking upholstered armchair. I used some fabric I already o
 (This is an image of the armchair in whilst in the process of being created).
 
 ![Image](access3.png)
-(This is an image of my final armchair.
+(This is an image of my final armchair.)
+
+I really like this eice as it is an eyecatching element that gives of a 70's vintage feel. i am very happy with how realistic it turned out.
 
 ### Narrative to Go Along With Scene ###
 Below is adraft of the short narrative that will coincide with th eminiature scene. However, the ideas may develop further in my final project and the writing will be more polished.
