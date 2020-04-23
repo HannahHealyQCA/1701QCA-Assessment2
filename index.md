@@ -419,7 +419,7 @@ The code I attempted to use can be found here:
 *https://makecode.microbit.org/_icVAyrb8P4Ao*
 
 
-This is an image of the attempt to add a touch sensor. However, the wires and microbit will obviously be neatly hidden in the final fabrication. The speaker will project from a hole in the side of the room.
+This is an image of the attempt to add a touch sensor. However, the wires and microbit will obviously be neatly hidden in the final fabrication and I will be soldering the connections as I have the equipment at home. The speaker will project from a hole in the side of the room.
 
 ![Image](speaker4.jpg)
 
