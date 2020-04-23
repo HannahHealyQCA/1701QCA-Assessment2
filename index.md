@@ -89,7 +89,9 @@ A digital and craft maker lab, Tazas and a group of master students have created
 This project is similar to mine as it is also an interactive book but this project uses more sophisticated technology. This project is also related to mine as it is a prototype and it uses different gesture sensors, thus expanding my knowledge of different sensors and alternatives to touch sensors for my own project.
 
 Other related projects that deserve a quick mention as they inspired me:
+
 *http://www.ghostlightgallery.com/store/c3/Jamie_Winn.html*
+
 Electronic mechanical wall art: This informed and inspired one of my design concepts. It is related as it is visually tells a story through electronic and mechanical components.
 
 ## Other research ##
