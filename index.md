@@ -425,6 +425,8 @@ This is an image of the attempt to add a touch sensor. However, the wires and mi
 
 (This is my attempt to add a touch sensor to the final record player with the speaker.)
 
+I have successfully creating a working record player with a motor and speaker. However, I now need to work on the input touch sensors that will trigger it to turn on and play the song.
+
 ### Construction of Wooden Room ###
 
 After deciding on a layout for the room which was informed by mood boards and sketches, I created a template with measurements for the individual pieces I needed to cut from the 3mm ply wood.
