@@ -1,7 +1,7 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
 
 ## Project working title ##
-*A Letter of Optics*
+*A Letter of Optics- A Visual Story*
 
 ## Related projects ##
 
@@ -85,11 +85,8 @@ This project is similar to mine as it is also an interactive book but this proje
 Other related projects that deserve a quick mention as they inspired me:
 *http://www.ghostlightgallery.com/store/c3/Jamie_Winn.html*
 Electronic mechanical wall art: This informed and inspired one of my design concepts. It is related as it is visually tells a story through electronic and mechanical components.
-**
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
-
 
 ### *Miniature Record Player Tutorial* ###
 
@@ -103,13 +100,13 @@ This tutorial helped me to make the record player fabrication. However, I had to
 
 This tutorial helped me make the armchair construction but I altered it to the materials I had. Instead of using foam board and quilt batting, I used strong cardboard and foam sheets. I also used the template provided as a rough guideline to create my own in my specific desired size.
 
-### *Brief resource name/description* ###
+### *Capacitive Touch Sensor Tutorial* ###
 
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+*ttps://ukbaz.github.io/howto/microbit_touch.html*
 
-### *Brief resource name/description* ###
+This tutorial significantly helped me when prototyping and experimenting with touch sensors. It helped me to develop the code and also helped me to find other alternatives.
 
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+
 
 All other helpful research or tutorials are mentioned in specific sections about the particular step in my construction/design process below.
 
@@ -289,7 +286,7 @@ Using this tutorial I was able to successfully make a touch sensor with aluminiu
 
 The code can be found at this link:
 
-*https://makecode.microbit.org/_iXmKteHTLFe6*
+*https://makecode.microbit.org/_8TKAD2PU5Rfy*
 
 
 ![Image](tstest3.png)
@@ -304,6 +301,15 @@ After troubleshooting a few problems with errors in code (greyed out code) and c
 
 ![Image](tstest4.png)
 (This is an image of the final test of multiple sensors.)
+
+I also prototyped the book layout with the sensors. If I were to choose this touch sensor method the book would resemble something like the following images.
+
+![Image](book1.png)
+(This is a close up of the book with touch sensor installed.)
+
+![Image](book2.png)
+(This is an image of the book in action.)
+
 
 ### Record Player Construction ###
 I have completed and fabricated one of the interactions. To create a miniature record player I first constructed a small wooden box and lid that fit the motor. I then created a panel that sits on top of the motor with a hole for the shaft of the motor. To make sure this piece fit perfectly I had to create a few wedges and made a wooden border for this piece to sit on. 
@@ -360,22 +366,24 @@ After completing the song coding aspect and after many tests using the make code
 (This is an image of the attachments installed.)
 
 I then attached it to the record player, synched the record spinning to the music and tested it out.
+A video of this can be found at:
+**
 
 ![Image](speaker3.png)
 (Above is an image of the test set up for the record player and speaker.)
 
 To alter the code I just added a 'analogue write P1 to 50' block onto the final song code above.
 
-I then added the touch sensor to trigger these interactions. A video of this can be found at:
+I then attempted to add touch sensor to trigger these interactions. I was unsuccessful in doing so, therefore, I need to complete more prototyping and research to either resolve the issue of find a better alternative
 
-The final code can be found here:
-**
+The code I attempted to use can be found here:
+*https://makecode.microbit.org/_icVAyrb8P4Ao*
 
 
-This is an image of the overall fabrication and functionality of the record player. However, the wires and microbit will obviously be neatly hidden in the final fabrication. The speaker will project from a hole in the side of the room.
+This is an image of the attempt to add a touch sensor. However, the wires and microbit will obviously be neatly hidden in the final fabrication. The speaker will project from a hole in the side of the room.
 
-![Image](speaker4.png)
-(This is the final record player with the speaker.)
+![Image](speaker4.jpg)
+(This is my attempt to add a touch sensor to the final record player with the speaker.)
 
 ### Construction of Wooden Room ###
 
@@ -414,7 +422,7 @@ I created a vintage looking upholstered armchair. I used some fabric I already o
 ![Image](access2.png)
 (This is an image of the armchair in whilst in the process of being created).
 
-![Image](access3.png)
+![Image](access3.jpg)
 (This is an image of my final armchair.)
 
 I really like this eice as it is an eyecatching element that gives of a 70's vintage feel. i am very happy with how realistic it turned out.
