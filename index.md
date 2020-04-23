@@ -479,7 +479,7 @@ I really like this piece as it is an eyecatching element that gives off a 70's v
 ### Narrative to Go Along With Scene ###
 Below is a draft of the short narrative that will coincide with the miniature scene. However, the ideas may develop further in my final project and the writing will be more polished.
 ##### Page 1 #####
-###### Interaction: ###### Door Opens with Servo
+###### Interaction: Door Opens with Servo
 The letter was so unexpected, a relative that I had never heard of before just dying out of nowhere?  Now I need to clean out their apartment because I am the closest living relative, seems sketchy, I thought as I stared at the archaic numbers adorned on this once convivial wooden door; 647.  The door creaked as I opened it and a musty smelled released.
 
 ##### Page 2 #####
