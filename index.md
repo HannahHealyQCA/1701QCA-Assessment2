@@ -11,6 +11,7 @@
 *https://www.allvisualarts.org/artists/CharlesMatton/biography.aspx*
 
 ![Image](relatedproject1.jpg)
+
 (This is an image of Matton's miniature scenes that look so life-like.)
 
 Charles Matton was a painter, sculptor, designer, writer, photographer, videographer, and filmmaker. His work aimed to capture the tension in living things and animate nature by provoking and perfecting life. In his exhibition 'enclosures', Matton created small scale interiors within transparent boxes with glass fronts. Depicting theatrical, atmospheric scenes, the miniatures spaces are based on real world interiors and memories from Matton's life. Each scene is meticulously hand-built to a 1/7 scale. To create a more immersive experience and to depict not just how something looked on a particular day but how it felt, Matton introduced one-way mirrors and videos to add hypnotic optical illusions.
@@ -24,6 +25,7 @@ This exhibition is related to my project as it is created in miniature scale and
 
 
 ![Image](relatedproject2.jpg)
+
 (Above is an image of one page of the electronic book that uses LEDs to match the colours when touched.)
 
 The MMAS Electronic book is a book with four pages that teaches subjects such as Music, Maths, ARts and Science, through interactive moveable parts and other electronics. Nonnis created it to introduce some skills for the first year of primary school to her niece. The book uses physical moveable parts and uses the electrical capitance of the human body to trigger lights, sounds and other outputs. Powered by 2 Arduinos, the book was created using a range of recylced materials such as paper, foil, cardboard and other electric components such as wires, resistors and LEDs. 
@@ -37,6 +39,7 @@ This project is related to mine as it is also a book and uses touch sensors and 
 *https://www.awesomeinventions.com/andy-acres-spooky-shadow-boxes-miniature-scenes/*
 
 ![Image](relatedproject3.jpg)
+
 (This is an image of Acre's creepy scene that uses both mechanical construction and electronic components.)
 
 Andy Acres is a London artist that specialises in creating highly detailed and visually dynamic models and scale miniatures. Usually creating ghostly ambiences, one of Acres' works are spooky shadow box diaromas. Within these models, Acres' uses LEDs to create creepy shadows that serve as a background to emphasise the small details. The lights can also be adjusted through an antique toggle on the side of the diaroma. By creating life-like scenes that create experiences, Acres' wants his work "to not only breathe life but to exhale".
@@ -51,6 +54,7 @@ This project is related to my project because they are both in a miniature scale
 https://mymodernmet.com/joshua-smith-miniaturist-urban-scale-models/*
 
 ![Image](relatedproject4.jpg)
+
 (This is an image of Smith's impressive miniatures that depict abandoned locations.)
 
 Joshua Smith is a South Australian miniaturist and former stencil artist. Smith's miniature work mainly focuses on the often overlooked aspects of the urban landscape. Smith depicts things like graffiti, abandoned locations, rust and decay. In his own words Smith states, "The works I create are of buildings long forgotten and soon to be demolished. I capture their current state of a once thriving but long forgotten space.” Smith works on a 1:20 scale and uses everyday materials such as MDF, cardboard, and plastic.
@@ -63,6 +67,7 @@ This project is similar to mine as it is also created in a miniature scale. They
 *make.techwillsaveus.com/microbit/activities/animated-microbook*
 
 ![Image](relatedproject5.jpg)
+
 (This is an image of the animated mircobit book that visualises a story.)
 
 This microbit project uses the microbit pins and copper tape circuits to illustrate a short story using the LEDs on the microbit.
@@ -76,6 +81,7 @@ This project is related to mine as it follows my design intent to visually depic
 https://tazasproject.com/portfolio/131/articleID.php?tazas=13*
 
 ![Image](relatedproject6.jpg)
+
 (This is an image of the interactive book that uses hand gestures.)
 
 A digital and craft maker lab, Tazas and a group of master students have created an interactive book that reflects just how natural digital gestures like swiping have become. The book uses ten actions: drag and drop, spread and squeeze, swipe, double tap, scroll, zoom, rotate, draw, press, press and hold. This project uses four basic electronic components and some digital fabrication: a web server (VPS), an AtHeart Blend Micro Bluetooth module linking objects to the server, an Ipod Touch connective viewing medium and conductive ink. Arranged on a laser cut wooden base, the Ipod digitally decrypts the printed pages. Using the book, the viewer has the ability to interact on the screen with digital hand gestures.
@@ -134,6 +140,7 @@ Limitations
 - Will need alot of research 
 
 ![Image](concept1.png)
+
 (This is an image of the planning and design process development for design concept 1).
 
 
@@ -152,6 +159,7 @@ Limitations
 
 
 ![Image](concept2.png)
+
 (Above is an image of design concept 2).
 
 ### Final design concept ###
@@ -171,6 +179,7 @@ Limitations
 - Would need some experimenting and prototyping 
 
 ![Image](concept3.png)
+
 (This is an image of my final design concept initial planning).
 
 
@@ -180,24 +189,28 @@ After deciding on this concept, I really struggled figuring out an aesthetic or 
 I knew that I wanted a window but I wasn't sure about the fireplace. I didn't want the room to be too cosy with the fireplace or too open or airy with the window. After doing some sketches (below) I decided to centre the room around the fireplace as i felt it fit the feel of the room I desired.
 
 ![Image](diagram.jpg)
+
 (Above is an image of two different designs that helped me to decide whether I wanted to centre to the room and story around the fireplace or window.)
 
 
 To determine the look and feel of the room I sketched out the different elements I wanted to include as I was definite on some of the accessories I wanted to include but just needed to visualise them together and work out the accessories exactly.
 
 ![Image](look.jpg)
+
 (Above is an image of the sketches of the accessories that helped me develop my aesthetic and possible interactions.)
 
 
 I thought of a few different micro-interactions that could take place in the room. After narrowing them down to feasible interactions with the materials and technology I had or could purchase, I made a final list.
 
 ![Image](interactions.jpg)
+
 (This is an image of my ideation and thought process when deciding the different interactions and the final interactions.).
 
 
 Now that I knew the interactions and overall look, I began making a material list. Most of the materials are electrical parts or fabrication materials, as all of the furniature and assessories will be handmade.
 
 ![Image](materiallist.jpg)
+
 (This is an image of my initial material list).
 
 #### Description of Look and Intentions: ####
@@ -207,8 +220,10 @@ To go along with the story, the room may look a little bit abandoned with overgr
 ### Interaction flowchart ###
 At this point I am not sure if I will make the individual interactions stop when the page is turned back but I have included it in these interactive flow diagrams to illustrate all possible iterations.
 ![Image](flow.png)
+
 (This is an image of one layout of my interaction flow diagram.)
 ![Image](flow2.png)
+
 (This is an image of another more detailed version of my interaction flow diagram that shows each step individually.)
 
 More Information on the Microinteractions:
@@ -240,14 +255,17 @@ In the corner of the room will be a fire place. Using LEDs removed from battery 
 #### Overall Aesthetic of Room ####
 
 ![Image](mood3.png)
+
 (This is a mood board of the aesthetic of the overall room.)
 
 #### Accessories ####
 ![Image](mood2.png)
+
 (This is a mood board of the vintage accessories I want to include in the room that will develop the vintage feel or interactions within the story.)
 
 #### Contruction of Room/ Layout ####
 ![Image](mood1.png)
+
 (This is a mood board of the research I constructed on the different ways to construct miniature rooms and different room layouts.)
 
 ### Touch Sensor Testing ###
@@ -264,9 +282,11 @@ I made it so that when you touch ground and P1, the microbit's LEDs would light 
 This is the code I used:
 
 ![Image](tscode1.png)
+
 (This is a screenshot of the code utilised.)
 
 ![Image](tscode2.png)
+
 (This is a screenshot of the code utilised for a second test.)
 
 ![Image](tstest1.png)
@@ -289,6 +309,7 @@ The code I used within this iteration can be found at this link:
 
 
 ![Image](tstest3.png)
+
 (This is an image of the successful test of the capacitive touch sensor.)
 
 Although this option is not entirely perfect it is the best I have found so far. So, at this point I will be going with small aluminium touch sensors embedded into the pages of the book. However, I will keep researching alternative more reliable options so this apsect may change in the final execution.
@@ -299,14 +320,17 @@ The code I used can be found through this link:
 After troubleshooting a few problems with errors in code (greyed out code) and connection problems I have these two sensors working moderating well.
 
 ![Image](tstest4.png)
+
 (This is an image of the final test of multiple sensors.)
 
 I also prototyped the book layout with the sensors. If I were to choose this touch sensor method, the book would resemble something like the following images.
 
 ![Image](book1.png)
+
 (This is a close up of the book with touch sensor installed.)
 
 ![Image](book2.png)
+
 (This is an image of the book in action.)
 
 I need to continue my research on touch sensors. But this is the most successful option so far, although I do have some trouble connecting it to different outputs (below). Consequently, I need to continue prototyping and conducting research either to polish this option or find alternatives.
@@ -316,26 +340,31 @@ I need to continue my research on touch sensors. But this is the most successful
 I have completed and fabricated one of the interactions. To create a miniature record player I first constructed a small wooden box and lid that fit the motor. I then created a panel that sits on top of the motor with a hole for the shaft of the motor. To make sure this piece fit perfectly I had to create a few wedges and make a wooden border for this piece to sit on. 
 
 ![Image](rp1.png)
+
 (This is an image of the main components of the record player.)
 
 After adding small metal wire details, a miniature hinge and staining the wood, I also created a few different vinyl record iterations to make sure it spun evenly on the motor.
 The first record was made just out of clear plastic painted black with a simple hole. I noticed this version did not really spin as the hole was too big and did not latch onto the shaft of the motor. I also noticed the main hole for the shaft of the motor was too small and caused friction which disturbed the spinning. The motor was also moving so that the side of the motor shaft was up against the wood. To resolve this I blue-tacked down the motor and made the main hole larger. To salvage this record I added a small paper tube that fit perfectly around the motor shaft which improved the spinning movement but it still was not spinning consistently without stopping.
 
 ![Image](rp2.png)
+
 (This is an closeup of the record with the small paper tube.)
 
 Within this process I also noticed my batteries were running out of power and effecting the speed, so I replaced those. For my last iteration of the record I went back to the simpliest form of just a hole but I made it much smaller. This worked much better but it was hard to arrange the record so it wasn't crooked or hitting the side. To resolve this I glued a small bead that fit exactly around the motor shaft to the underside of the record. This small addition cannot be seen but makes it so the record spins evenly and smoothly.
 
 ![Image](rp3.png)
+
 (Above is an image of the final record vinyl with the bead.)
 
 
 ![Image](rp4.png)
+
 (This is an image of the final record player.)
 
 This is the code I used during my tests of the effectiveness of the spinning capabilities within the wooden fabrication:
 
 ![Image](rpcode1.PNG)
+
 (This is an image of the code used to test the functionality of just the record with the motor.)
 
 
@@ -345,6 +374,7 @@ To create the music, I first trialed different songs. I struggled figuring out h
 This is the code I created:
 
 ![Image](rpcode2.PNG)
+
 (This is an image of the song test code.)
 
 I then tried a harder song: 'To be So Lonely By Harry Styles'
@@ -362,10 +392,12 @@ The code I created can be found at this link:
 After completing the song coding aspect and after many tests using the make code simulator and the piezo buzzer, I wanted to find a way to project the music louder. I eventually found an old home phone that I opened and removed the built in speaker. To maximise the volume I created a wooden box for it and used a half sphere plastic piece. Filling up the gaps in the box with hot glue, I tried to make sure all of the sound was projected outwards through the cone like amplifier. I think that these added attachments definitely helped to project the sound more. 
 
 ![Image](speaker1.png)
+
 (This an image of the speaker with attachments.)
 
 
 ![Image](speaker2.png)
+
 (This is an image of the attachments installed.)
 
 I then attached it to the record player, synched the record spinning to the music and tested it out.
@@ -373,6 +405,7 @@ A video of this can be found at:
 **
 
 ![Image](speaker3.png)
+
 (Above is an image of the test set up for the record player and speaker.)
 
 To alter the code I just added a 'analogue write P1 to 50' block onto the final song code above.
@@ -386,6 +419,7 @@ The code I attempted to use can be found here:
 This is an image of the attempt to add a touch sensor. However, the wires and microbit will obviously be neatly hidden in the final fabrication. The speaker will project from a hole in the side of the room.
 
 ![Image](speaker4.jpg)
+
 (This is my attempt to add a touch sensor to the final record player with the speaker.)
 
 ### Construction of Wooden Room ###
@@ -393,6 +427,7 @@ This is an image of the attempt to add a touch sensor. However, the wires and mi
 After deciding on a layout for the room which was informed by mood boards and sketches, I created a template with measurements for the individual pieces I needed to cut from the 3mm ply wood.
 
 ![Image](wood1.png)
+
 (This is an image of the template.)
 
 Within my design I have a 30mm platform underneath the whole room. This is to run wires through and hide messy components. To run the wires through I will drill small holes in the according spots to thread the wires under the scene and to the microbit. 
@@ -404,28 +439,34 @@ After measuring and cutting the wood, I began to arrange the pieces and glue the
 
 
 ![Image](wood2.png)
+
 (This is an image of the glueing of the room in progress.)
 
 
 ![Image](wood3.png)
+
 (Above is an image of the glueing of the balcony in progress.)
 
 
 ![Image](wood4.png)
+
 (This is the final basic construction of the room.)
 
 ### Construction of Accessories ###
 I have also began making some of the accessories for the room.
 I made a hanging plant by spiraling string around a mold and glueing in fake plants to emulate the look of an overgrown hanging plant. I also created a hook from wire that will be installed into a wall in the room.
 ![Image](access1.jpg)
+
 (This is an image of a handmade hanging plant).
 
 I created a vintage looking upholstered armchair. I used some fabric I already owned but I would have really liked to use mustard coloured velvet. I used cardbord and sheets of foam. Overall, I like the end result as it looks like some of the chairs I was inspired by on my mood boards.
 
 ![Image](access2.png)
+
 (This is an image of the armchair in whilst in the process of being created).
 
 ![Image](access3.jpg)
+
 (This is an image of my final armchair.)
 
 I really like this piece as it is an eyecatching element that gives off a 70's vintage feel. I am very happy with how realistic it turned out.
