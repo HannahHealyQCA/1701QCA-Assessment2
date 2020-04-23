@@ -64,7 +64,7 @@ This project is similar to mine as it is also created in a miniature scale. They
 ### Related project 5 ###
 *Animated Micro:Book*
 
-*make.techwillsaveus.com/microbit/activities/animated-microbook*
+*https://make.techwillsaveus.com/microbit/activities/animated-microbook*
 
 ![Image](relatedproject5.jpg)
 
