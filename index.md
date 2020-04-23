@@ -102,7 +102,7 @@ This tutorial helped me make the armchair construction but I altered it to the m
 
 ### *Capacitive Touch Sensor Tutorial* ###
 
-*ttps://ukbaz.github.io/howto/microbit_touch.html*
+*https://ukbaz.github.io/howto/microbit_touch.html*
 
 This tutorial significantly helped me when prototyping and experimenting with touch sensors. It helped me to develop the code and also helped me to find other alternatives.
 
@@ -258,6 +258,7 @@ To begin prototyping I research capactive touch sensors and using the human body
 First I tried adapting these tutorials:
 
 *https://makecode.microbit.org/reference/input/on-pin-pressed*
+
 *https://makecode.microbit.org/projects/banana-keyboard*
 
 I made it so that when you touch ground and P1 an the microbit's LEDs would light up. This did work but it was not reliable and would only work sometimes. I also tried doing it with alligator clips connected to aluminium foil instead of fruit but this was even more unreliable.
@@ -425,10 +426,10 @@ I created a vintage looking upholstered armchair. I used some fabric I already o
 ![Image](access3.jpg)
 (This is an image of my final armchair.)
 
-I really like this eice as it is an eyecatching element that gives of a 70's vintage feel. i am very happy with how realistic it turned out.
+I really like this peice as it is an eyecatching element that gives of a 70's vintage feel. i am very happy with how realistic it turned out.
 
 ### Narrative to Go Along With Scene ###
-Below is adraft of the short narrative that will coincide with th eminiature scene. However, the ideas may develop further in my final project and the writing will be more polished.
+Below is a draft of the short narrative that will coincide with the miniature scene. However, the ideas may develop further in my final project and the writing will be more polished.
 ##### Page 1 #####
 ###### Interaction: ###### Door Opens with Servo
 The letter was so unexpected, a relative that I had never heard of before just dying out of nowhere?  Now I need to clean out their apartment because I am the closest living relative, seems sketchy, I thought as I stared at the archaic numbers adorned on this once convivial wooden door; 647.  The door creaked as I opened it and a musty smelled is released.
@@ -468,10 +469,9 @@ I also completed many iterations. This is evident through the many different tou
 
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
 
 To complete my project I need to:
-##### 1- test out more touch sesnors or alternatives
+##### 1- Test out more touch sensors or alternatives
   - Research more
   - Prototype tests to test reliabilty
   - Test with one of the page's interactions
