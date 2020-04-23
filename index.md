@@ -228,27 +228,28 @@ At this point I am not sure if I will make the individual interactions stop when
 
 (This is an image of another more detailed version of my interaction flow diagram that shows each step individually.)
 
-More Information on the Microinteractions:
+#### More Information on the Microinteractions:
 
-Page 1- Door Opens
+##### Page 1- Door Opens
 
 Using a servo underneath the floor and a magnet connected to an attachment of the servo and the bottom of the door frame, the servo will open the door when the angle is changed. This will introduce the story as an establishing interaction. At this point I think the door will remain open for the whole story but I may decide to close it at the end of the story.
 
-Page 2- Lights Turn On
+##### Page 2- Lights Turn On
 
 Lamps and wall lights will turn on. Using handmade light covers the LEDs will be installed into some type of fabricated form that resembles a light. All will turn on at the same time.
 
-Page 3- Wind blows the curtains
+##### Page 3- Wind blows the curtains
 
 Underneath the floor will be a fan attached to the motor that will blow air through a vent in the floor and consequently blow the curtains on the window as if a breeze is entering. 
 
-Page 4- Record Player
+##### Page 4- Record Player
 
 A miniature record on a record player will begin to spin through the use of a motor. Music will also play through a speaker that I salvaged from an old home phone. The song is 'I Can't Help Falling In Love With You' by ELvis Presley, to develop the vintage vibes more. I have coded the song already and have these components working successfully for the final project.
 
-Page 5- Fireplace
+##### Page 5- Fireplace
 
 In the corner of the room will be a fire place. Using LEDs removed from battery operated tea lights that flicker, the fireplace will have about three LEDs within the fire ot ensure maximum ambient glow. All LEDs will turn on at the same time.
+
 
 ## Physical experimentation documentation ##
 
