@@ -403,9 +403,9 @@ After completing the song coding aspect and after many tests using the make code
 
 (This is an image of the attachments installed.)
 
-I then attached it to the record player, synched the record spinning to the music and tested it out.
+I then attached it to the record player, synced the record spinning to the music and tested it out. The motor is  abit loud but I will adjust the speed so it is slower and thus quieter.
 A video of this can be found at:
-**
+*https://vimeo.com/411233157*
 
 ![Image](speaker3.png)
 
@@ -425,7 +425,7 @@ This is an image of the attempt to add a touch sensor. However, the wires and mi
 
 (This is my attempt to add a touch sensor to the final record player with the speaker.)
 
-I have successfully creating a working record player with a motor and speaker. However, I now need to work on the input touch sensors that will trigger it to turn on and play the song.
+I have successfully created a working record player with a motor and speaker. However, I now need to work on the input touch sensors that will trigger it to turn on and play the song.
 
 ### Construction of Wooden Room ###
 
