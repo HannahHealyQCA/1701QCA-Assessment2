@@ -326,7 +326,7 @@ After troubleshooting a few problems with errors in code (greyed out code) and c
 
 (This is an image of the final test of multiple sensors.)
 
-I also prototyped the book layout with the sensors. If I were to choose this touch sensor method, the book would resemble something like the following images.
+I also prototyped the book layout with the sensors. If I were to choose this touch sensor method, the book would resemble something like the following images. However, I will not be using alligator clips, i would solder the wires to the aluminium foil.
 
 ![Image](book1.png)
 
