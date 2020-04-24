@@ -328,11 +328,11 @@ After troubleshooting a few problems with errors in code (greyed out code) and c
 
 I also prototyped the book layout with the sensors. If I were to choose this touch sensor method, the book would resemble something like the following images. However, I will not be using alligator clips, i would solder the wires to the aluminium foil.
 
-![Image](book1.png)
+![Image](book1.jpg)
 
 (This is a close up of the book with touch sensor installed.)
 
-![Image](book2.png)
+![Image](book2.jpg)
 
 (This is an image of the book in action.)
 
